@@ -1,4 +1,4 @@
-# 🎙️ Robust Text-Independent Speaker Recognition
+#  Robust Text-Independent Speaker Recognition
 ### MFCC + Mahalanobis Distance | EEE-312 DSP Project | BUET
 
 > A MATLAB implementation of a text-independent speaker identification system using
@@ -8,7 +8,7 @@
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 - [Overview](#overview)
 - [Repository Structure](#repository-structure)
 - [Requirements](#requirements)
